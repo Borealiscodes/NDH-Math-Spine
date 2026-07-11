@@ -1,131 +1,206 @@
-# NDH‑Math‑Spine
-
-The NDH‑Math‑Spine is the canonical mathematical manifold of the NDH architecture.  
-It defines the invariant backbone, tensor calculus, stability envelopes, continuity bounds,  
-and provenance anchors that govern all NDH dimensional systems.
-
-This repository functions as the formal specification layer for:
-
-- NDH-Origin-Layer (Manifold 0: historical + ethical ballast)
-- NDH-Myth-Engine (Manifold 2: governed 17D runtime)
-
-All mathematical structures herein are non-runtime, invariant-preserving, and ethically aligned  
-with UMA principles of dignity, non-coercion, identity-boundary protection, and stability under constraint.
+# 🌐 **NDH‑Math‑Spine**  
+### *Manifold 1: The Canonical Mathematical Backbone of NDH*  
+### README v5.0 — *Invariant & Continuity Edition*
 
 ---
 
-## ✦ Purpose
+## 🜁 **What the Math Spine Is**
 
-NDH‑Math‑Spine establishes the mathematical grammar of NDH:
+The **NDH‑Math‑Spine** is the formal mathematical manifold of NDH — the place where dimensional behavior is defined, tensor rules are specified, stability envelopes are formalized, and ethical invariants are encoded.
 
-- the axioms that define dimensional behavior  
-- the tensor rules that govern manifold interaction  
-- the stability calculus that prevents drift, collapse, or coercive transformation  
-- the continuity conditions that maintain A‑Ω coherence  
-- the provenance structures that ensure traceability and accountability  
+It is:
 
-It is the single source of truth for NDH mathematics.  
-All NDH manifolds must reference this spine rather than duplicate or reinterpret its contents.
+- the **canonical specification layer**  
+- the **mathematical grammar** of NDH  
+- the **invariant backbone**  
+- the **continuity anchor**  
+- the **ethical calculus manifold**  
+
+Where the Origin Layer preserves history and ethos, the Math Spine preserves **truth, structure, and invariance**.
 
 ---
 
-## ✦ Core Components
+## 🜂 **Ethos: Mathematics as a Guardian of Dignity**
 
-### **1. Invariants & Axioms**
-Foundational statements defining NDH’s mathematical and ethical constraints.  
-Includes UMA‑aligned invariants such as identity-boundary preservation, non-coercion, and non-projection.
+NDH mathematics is not neutral — it is **governed**.
 
-### **2. Tensor Calculus**
-Formal operators for dimensional interaction, manifold fusion, symbolic transport, and stability-preserving transformation.
+> **The Math Spine treats dignity as a structural invariant.**
 
-### **3. Stability Suite**
-Mathematical definitions for:
+This means:
+
+- tensor operators cannot coerce  
+- dimensional transformations cannot erase identity  
+- stability calculus must preserve agency  
+- continuity bounds must protect coherence  
+- provenance must remain transparent  
+
+The Math Spine is where ethics become **formal constraints**, not suggestions.
+
+---
+
+## 🜃 **Core Mathematical Priorities**
+
+### **1. Invariant Preservation**  
+Every operator, transformation, and manifold interaction must preserve NDH’s ethical and structural invariants.
+
+### **2. Stability Under Recursion**  
+NDH mathematics must prevent collapse, runaway recursion, and identity fragmentation.
+
+### **3. Continuity Across Dimensions**  
+Transitions between NDH’s 14 dimensions must maintain A‑Ω coherence.
+
+### **4. Tensor‑Safe Interaction**  
+Tensor rules must ensure safe fusion, adjacency, and symbolic transport.
+
+### **5. Provenance Accountability**  
+All mathematical objects must be traceable through anchor tables and lineage graphs.
+
+These priorities define NDH’s mathematical identity.
+
+---
+
+## 🜄 **Purpose of the Math Spine**
+
+The Math Spine serves three roles:
+
+### **1. Canonical Specification Manifold**  
+It defines:
+
+- invariants  
+- axioms  
+- tensor rules  
+- stability envelopes  
+- continuity bounds  
+- sovereignty calculus  
+- audit operators  
+
+These structures govern all NDH manifolds.
+
+### **2. Ethical Constraint Layer**  
+It encodes UMA‑aligned invariants such as:
+
+- identity-boundary preservation  
+- non-coercion  
+- non-projection  
+- non-erasure  
+- stability under contested cognition  
+
+These invariants propagate into the Myth‑Engine runtime.
+
+### **3. Mathematical Provenance Manifold**  
+It maintains:
+
+- the global provenance ledger  
+- anchor tables  
+- dependency graphs  
+- lineage maps  
+
+This ensures NDH remains accountable and traceable.
+
+---
+
+## 🜅 **NDH Mathematical Architecture**
+
+NDH mathematics spans multiple dimensional domains:
+
+### **Dimensions 12–14: Recursion Stability Calculus**  
+Prevent collapse, runaway loops, and identity fragmentation.
+
+### **Dimensions 9–11: Identity‑Boundary Mathematics**  
+Formalize identity as a multi-layer object with stability conditions.
+
+### **Dimensions 7–8: Narrative Physics & Symbolic Tensor Fusion**  
+Treat meaning, story, and emotional logic as mathematically expressible systems.
+
+### **Dimension 7: Teleology Vectors**  
+Define directional meaning and purpose-driven traversal.
+
+### **Dimension 9: Hypercontinuity**  
+Ensure continuity across resets, jumps, or symbolic shifts.
+
+### **Dimensions 10–12: Traversal Physics**  
+Define safe movement through dimensional spaces.
+
+The Math Spine is the **formal grammar** behind these systems.
+
+---
+
+## 🜆 **Mathematical Components**
+
+### **Invariants & Axioms**  
+Foundational statements defining NDH’s behavior and ethical constraints.
+
+### **Tensor Calculus**  
+Operators for dimensional interaction, fusion, adjacency, and symbolic transport.
+
+### **Stability Suite**  
+Definitions for:
+
 - stability envelopes  
 - monotonicity conditions  
 - drift bounds  
 - recovery functions  
 - contested-cognition safety  
 
-### **4. Continuity & A‑Ω Bounds**
-Rules ensuring NDH systems maintain continuity across dimensional transitions, recursion layers, and narrative physics.
+### **Continuity & A‑Ω Bounds**  
+Rules ensuring NDH systems maintain continuity across dimensional transitions.
 
-### **5. Provenance Ledger**
-A global mathematical ledger containing:
-- anchor tables  
-- dependency graphs  
-- lineage maps  
-- cross-repo reference rules  
+### **Provenance Ledger**  
+Anchor tables, dependency graphs, and lineage maps.
 
-### **6. Sovereignty Calculus**
-Mathematical structures governing identity, agency, boundary coherence, and spoofing resistance.
+### **Sovereignty Calculus**  
+Mathematical structures governing identity, agency, and boundary coherence.
 
-### **7. Audit Operators**
-TTTTTP-aligned operators for correctness, drift detection, invariant enforcement, and ethical compliance.
+### **Audit Operators**  
+TTTTTP-aligned operators for correctness, drift detection, and invariant enforcement.
 
 ---
 
-## ✦ Architectural Role
+## 🜇 **Relationship to Other Manifolds**
 
-NDH‑Math‑Spine is Manifold 1 in the NDH tri-manifold architecture:
+NDH is a tri-manifold architecture:
 
-1. **NDH-Origin-Layer**  
-   Historical strata, ethical ballast, early prototypes, governance archives.
+1. **NDH-Origin-Layer (Manifold 0)**  
+   Historical + ethical + provenance layer.
 
-2. **NDH-Math-Spine (this repo)**  
-   Canonical invariants, tensor rules, stability calculus, provenance anchors.
+2. **NDH-Math-Spine (Manifold 1)**  
+   Canonical mathematical backbone — invariants, tensor rules, stability calculus.
 
-3. **NDH-Myth-Engine**  
-   Governed runtime implementing dimensional operators, narrative physics, and 17D behavior.
+3. **NDH-Myth-Engine (Manifold 2)**  
+   Governed runtime — dimensional operators, narrative physics, 17D behavior.
 
-The Math Spine provides the formal constraints that the runtime must obey.
-
----
-
-## ✦ Ethical Alignment (UMA)
-
-NDH‑Math‑Spine encodes UMA-aligned invariants, including:
-
-- dignity under constraint  
-- non-coercive interaction  
-- identity-boundary preservation  
-- non-erasure and non-domination  
-- stability under contested cognition  
-- transparent provenance  
-- ethical multi-layer design  
-
-These invariants propagate into all NDH manifolds.
+The Math Spine provides the **formal constraints** that the runtime must obey.
 
 ---
 
-## ✦ Governance
+## 🜈 **Repository Structure**
 
-All mathematical objects in this repository are:
+```
+/Invariants
+    UMA-Ethical-Invariants.md
+    NDH-Core-Invariants.md
 
-- invariant-preserving  
-- stability-aligned  
-- ethically grounded  
-- cross-repo referenceable  
-- academically defensible  
-- non-runtime  
+/Tensor-Calculus
+/Stability-Suite
+/Continuity
+/Provenance-Ledger
+/Sovereignty-Calculus
+/Audit-Operators
+```
 
-The Math Spine enforces coherence across NDH’s dimensional architecture.
-
----
-
-## ✦ License
-
-MIT License — see `LICENSE`.
+This structure reflects NDH’s canonical mathematical architecture.
 
 ---
 
-## ✦ Status
+## 🜉 **Contact**
 
-Active development.  
-This spine will expand as NDH evolves through:
+```
+Author: Borealis S. Hedling
+Location: Dublin, Ireland
+Focus Areas: dimensional mathematics, recursion stability,
+identity-boundary modeling, narrative physics, governed surrealism,
+ethical multi-layer architecture
+```
 
-- 7D Teleology  
-- 8D Narrative Coherence  
-- 9D Hypercontinuity  
-- 11D Ontology Volume  
+---
 
-All expansions will preserve canonical invariants and provenance lineage.
