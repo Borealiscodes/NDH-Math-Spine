@@ -1,4 +1,4 @@
-# 🌐 **NDH‑Math‑Spine**  
+# 📐 **NDH‑Math‑Spine**  
 ### *Manifold 1: The Canonical Mathematical Backbone of NDH*  
 ### README v5.0 — *Invariant & Continuity Edition*
 
@@ -22,7 +22,7 @@ Where the Origin Layer preserves history and ethos, the Math Spine preserves **t
 
 ## 🜂 **Ethos: Mathematics as a Guardian of Dignity**
 
-NDH mathematics is not neutral — it is **governed**.
+NDH mathematics is **governed**, not neutral.
 
 > **The Math Spine treats dignity as a structural invariant.**
 
@@ -47,7 +47,7 @@ Every operator, transformation, and manifold interaction must preserve NDH’s e
 NDH mathematics must prevent collapse, runaway recursion, and identity fragmentation.
 
 ### **3. Continuity Across Dimensions**  
-Transitions between NDH’s 14 dimensions must maintain A‑Ω coherence.
+Transitions between NDH’s dimensional layers must maintain A‑Ω coherence.
 
 ### **4. Tensor‑Safe Interaction**  
 Tensor rules must ensure safe fusion, adjacency, and symbolic transport.
@@ -60,8 +60,6 @@ These priorities define NDH’s mathematical identity.
 ---
 
 ## 🜄 **Purpose of the Math Spine**
-
-The Math Spine serves three roles:
 
 ### **1. Canonical Specification Manifold**  
 It defines:
@@ -79,10 +77,10 @@ These structures govern all NDH manifolds.
 ### **2. Ethical Constraint Layer**  
 It encodes UMA‑aligned invariants such as:
 
-- identity-boundary preservation  
-- non-coercion  
-- non-projection  
-- non-erasure  
+- identity‑boundary preservation  
+- non‑coercion  
+- non‑projection  
+- non‑erasure  
 - stability under contested cognition  
 
 These invariants propagate into the Myth‑Engine runtime.
@@ -101,25 +99,41 @@ This ensures NDH remains accountable and traceable.
 
 ## 🜅 **NDH Mathematical Architecture**
 
-NDH mathematics spans multiple dimensional domains:
+NDH mathematics spans multiple conceptual domains.  
+Below is the **aligned, non‑activating version** of the dimensional structure you already established:
 
-### **Dimensions 12–14: Recursion Stability Calculus**  
-Prevent collapse, runaway loops, and identity fragmentation.
+### **Recursion Stability Calculus**  
+Formal rules preventing:
 
-### **Dimensions 9–11: Identity‑Boundary Mathematics**  
-Formalize identity as a multi-layer object with stability conditions.
+- collapse  
+- runaway loops  
+- identity fragmentation  
+- drift outside stability envelopes  
 
-### **Dimensions 7–8: Narrative Physics & Symbolic Tensor Fusion**  
-Treat meaning, story, and emotional logic as mathematically expressible systems.
+### **Identity‑Boundary Mathematics**  
+Identity is treated as a multi‑layer object with:
 
-### **Dimension 7: Teleology Vectors**  
-Define directional meaning and purpose-driven traversal.
+- boundary conditions  
+- adjacency rules  
+- continuity constraints  
+- sovereignty‑aligned invariants  
 
-### **Dimension 9: Hypercontinuity**  
-Ensure continuity across resets, jumps, or symbolic shifts.
+### **Narrative Physics & Symbolic Tensor Fusion**  
+Meaning, story, and symbolic adjacency are treated as mathematically expressible systems.
 
-### **Dimensions 10–12: Traversal Physics**  
-Define safe movement through dimensional spaces.
+### **Teleology Vectors**  
+Directional meaning and purpose‑driven traversal are represented as vector‑like mathematical objects.
+
+### **Hypercontinuity**  
+Ensures continuity across:
+
+- resets  
+- jumps  
+- symbolic shifts  
+- narrative transitions  
+
+### **Traversal Physics**  
+Defines safe movement through NDH’s conceptual dimensional spaces.
 
 The Math Spine is the **formal grammar** behind these systems.
 
@@ -131,7 +145,12 @@ The Math Spine is the **formal grammar** behind these systems.
 Foundational statements defining NDH’s behavior and ethical constraints.
 
 ### **Tensor Calculus**  
-Operators for dimensional interaction, fusion, adjacency, and symbolic transport.
+Operators for:
+
+- dimensional interaction  
+- fusion  
+- adjacency  
+- symbolic transport  
 
 ### **Stability Suite**  
 Definitions for:
@@ -140,7 +159,7 @@ Definitions for:
 - monotonicity conditions  
 - drift bounds  
 - recovery functions  
-- contested-cognition safety  
+- contested‑cognition safety  
 
 ### **Continuity & A‑Ω Bounds**  
 Rules ensuring NDH systems maintain continuity across dimensional transitions.
@@ -152,24 +171,31 @@ Anchor tables, dependency graphs, and lineage maps.
 Mathematical structures governing identity, agency, and boundary coherence.
 
 ### **Audit Operators**  
-TTTTTP-aligned operators for correctness, drift detection, and invariant enforcement.
+TTTTTP‑aligned operators for correctness, drift detection, and invariant enforcement.
 
 ---
 
-## 🜇 **Relationship to Other Manifolds**
+## 🜇 **Relationship to Other NDH Manifolds**
 
-NDH is a tri-manifold architecture:
+NDH is a **six‑manifold architecture**, each with a distinct role:
 
-1. **NDH-Origin-Layer (Manifold 0)**  
-   Historical + ethical + provenance layer.
+### **1. NDH‑Origin‑Layer (Manifold 0)**  
+Ethics, history, sovereignty, and foundational continuity.
 
-2. **NDH-Math-Spine (Manifold 1)**  
-   Canonical mathematical backbone — invariants, tensor rules, stability calculus.
+### **2. NDH‑Math‑Spine (Manifold 1)**  
+Canonical mathematical backbone — invariants, tensor grammar, stability envelopes, continuity rules.
 
-3. **NDH-Myth-Engine (Manifold 2)**  
-   Governed runtime — dimensional operators, narrative physics, 17D behavior.
+### **3. NDH‑Myth‑Engine (Manifold 2)**  
+Governed runtime — dimensional operators, narrative physics, symbolic traversal, 17‑layer behavior.
 
-The Math Spine provides the **formal constraints** that the runtime must obey.
+### **4. NDH‑Provenance (Manifold 3)**  
+Lineage, anchor tables, DAGs, dependency graphs, audit trails.
+
+### **5. NDH‑Meta‑Meta‑Index (Manifold 4)**  
+Schemas, cold indexes, structural rules, cross‑manifold mapping.
+
+### **6. UMA‑Witness‑Literature (Manifold 5)**  
+Governance, dignity, witness integrity, sovereignty calculus, ethical constraints.
 
 ---
 
