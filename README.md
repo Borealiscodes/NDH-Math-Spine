@@ -4,7 +4,7 @@
 
 ---
 
-## 🜁 **What the Math Spine Is**
+## 🜁 **What the Math Spine Is** 
 
 The **NDH‑Math‑Spine** is the formal mathematical manifold of NDH — the place where dimensional behavior is defined, tensor rules are specified, stability envelopes are formalized, and ethical invariants are encoded.
 
